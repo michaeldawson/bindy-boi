@@ -1,38 +1,28 @@
 # Bindy::Boi
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/bindy/boi`. To experiment with that code, run `bin/console` for an interactive prompt.
+Welcome to bindy-boi gem, providing `bindy.boi` functionality to your application!!1!
 
-TODO: Delete this and the text above, and describe your gem
+If you are using Pry, you will know that `bindy.boi` functionality is broken and only `binding.pry` works D:
+
+This gem fixes this and gives you `bindy.boi`.
 
 ## Installation
 
-Add this line to your application's Gemfile:
+Add to your Gemfile:
 
-```ruby
+```
 gem 'bindy-boi'
 ```
 
-And then execute:
+In your terminal:
 
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install bindy-boi
+```
+bundle install
+```
 
 ## Usage
 
-TODO: Write usage instructions here
-
-## Development
-
-After checking out the repo, run `bin/setup` to install dependencies. Then, run `rake spec` to run the tests. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
-
-To install this gem onto your local machine, run `bundle exec rake install`. To release a new version, update the version number in `version.rb`, and then run `bundle exec rake release`, which will create a git tag for the version, push git commits and tags, and push the `.gem` file to [rubygems.org](https://rubygems.org).
-
-## Contributing
-
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/bindy-boi.
+Add `bindy.boi` where you want your code to break ( "breakpoint"...?? lol idk).
 
 ## License
 
