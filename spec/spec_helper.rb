@@ -1,5 +1,5 @@
 require "bundler/setup"
-require "bindy/boi"
+require "binding"
 
 RSpec.configure do |config|
   # Enable flags like --only-failures and --next-failure
